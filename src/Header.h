@@ -4,7 +4,9 @@
 #include <iostream>
 #include <cmath>
 
+void bubblesort(int(&dataset)[5]);
 
 
 
 #endif
+
